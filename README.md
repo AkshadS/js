@@ -1,7 +1,7 @@
 # js
 <html>
 <head>
-<title>Rayyan form exp 3</title>
+<title>Ray form exp 3</title>
 </head>
  <body>  
 <style>
