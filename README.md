@@ -8,7 +8,7 @@
 body{
            margin: 0;
            padding: 0;
-           background-image: url(images1.jpg);
+           background-image: url();
            
              background-position: center;
            height: 100vh;
